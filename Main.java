@@ -3,7 +3,6 @@
 // YOUR NAME: Leilani P
 // COLLABORATORS:
 // DATE:  
-
 public class Main
 {
 	public static void main(String[] args)
